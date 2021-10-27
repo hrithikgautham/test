@@ -4,3 +4,6 @@ second line
 
 third line
 4th line
+3rd line in a.txr
+
+resolved merge conflict
