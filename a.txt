@@ -2,5 +2,9 @@ first line
 
 second line
 
+third line
+4th line
 3rd line in a.txr
 some random text
+
+resolved merge conflict
