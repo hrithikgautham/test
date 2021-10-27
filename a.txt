@@ -3,3 +3,4 @@ first line
 second line
 
 3rd line in a.txr
+some random text
